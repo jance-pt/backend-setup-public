@@ -10,6 +10,9 @@ version: 7.0.31
 Install MongoDB Compass
 <https://www.mongodb.com/try/download/compass>
 
+Install MongoDB Command Line Database Tools Download
+<https://www.mongodb.com/try/download/database-tools>
+
 ### 3. Redis Insight
 <https://redis.io/insight/>
 
