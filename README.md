@@ -3,7 +3,11 @@
 ### 1. Visual Studio Code
 <https://code.visualstudio.com/>
 
-### 2. Install MongoDB Compass
+### 2. Mongo DB
+version: 7.0.31
+<https://www.mongodb.com/try/download/community>
+
+Install MongoDB Compass
 <https://www.mongodb.com/try/download/compass>
 
 ### 3. Redis Insight
@@ -29,7 +33,7 @@ ssh-keygen -t ed25519
 
 ### 8. Node.js
 <https://nodejs.org/en/download>
-v24.14.1 (LTS)
+v22.22.2 (LTS)
 
 ```bash
 node -v
