@@ -28,6 +28,9 @@ Install MongoDB Command Line Database Tools
 <https://redis.io/insight/>
 
 *install redis through docker.
+```
+docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:latest
+```
 
 ### 4. Postman
 <https://dl.pstmn.io/download/latest/win64>
